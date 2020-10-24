@@ -40,7 +40,7 @@ console.log(stringBig);
 g)Crear una copia del array de meses que contenga desde Mayo hasta Noviembre (utilizar slice).*/
 array1 = ["Enero", "Febrero", "Marzo", "Abril", "Mayo",
 "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
-var array2=array1.slice(array1.indexOf('Mayo'),array1.indexOf('Noviembre'));
+var array2 = array1.slice(array1.indexOf('Mayo'),array1.indexOf('Noviembre'));
 console.log(array2);
 
 
